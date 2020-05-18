@@ -1,0 +1,23 @@
+{
+  "name": "flood-map-for-planning-azure-apis",
+  "version": "1.0.0",
+  "description": "azure functions automation api's",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js --reporter mochawesome"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chai-http": "^4.3.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "should": "^13.2.3"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "mochawesome": "^3.0.3",
+    "chai": "^4.2.0"
+  }
+}

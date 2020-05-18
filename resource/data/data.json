@@ -1,0 +1,41 @@
+{
+	"map-data": [
+		{
+			"x": "429719",
+			"y": "433916",
+			"applicationReferenceNumber": "Leeds"
+		},
+		{
+			"xy": "383819",
+			"y": "398052",
+			"applicationReferenceNumber": "Manchester"
+		},
+		{
+			"x": "360799",
+			"y": "388244",
+			"applicationReferenceNumber": "Warrington"
+		},
+		{
+			"x": "353552",
+			"y": "428895",
+			"applicationReferenceNumber": "Preston"
+		},
+		{
+			"x": "330873",
+			"y": "436578",
+			"applicationReferenceNumber": "Blackpool"
+		}
+
+	],
+	"pso-contact-details":[
+		{ 
+			"x": "429719",
+			"y": "433916"
+		},
+		{
+			"x": "353552",
+			"y": "428895"		
+		}
+	]
+
+}
