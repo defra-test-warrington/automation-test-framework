@@ -11,3 +11,5 @@ Clone it form the Git url and install the dependencies from and run the tests.
 1) This project needs a config.json file to be placed at root directory and will have some settings in it, please ask author for those settings.
 
 2) npm i 
+
+3) npm run test
