@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chai-http": "^4.3.0",
     "request": "^2.88.2",
     "request-promise": "^4.2.5",
